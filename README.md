@@ -1,0 +1,2 @@
+# StaticResource
+jsDelivr CDN
